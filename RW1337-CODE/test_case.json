@@ -1,0 +1,93 @@
+[
+    {
+        "Index": "0",
+        "Item Name": "apple",
+        "Category": "Food",
+        "Amount": "$ 2.00",
+        "Timestamp": "2023-05-06"
+    },
+    {
+        "Index": "1",
+        "Item Name": "banana",
+        "Category": "Food",
+        "Amount": "$ 3.00",
+        "Timestamp": "2023-04-06"
+    },
+    {
+        "Index": "2",
+        "Item Name": "orange",
+        "Category": "Food",
+        "Amount": "$ 3.00",
+        "Timestamp": "2023-03-06"
+    },
+    {
+        "Index": "3",
+        "Item Name": "watermelon",
+        "Category": "Food",
+        "Amount": "$ 5.00",
+        "Timestamp": "2023-02-06"
+    },
+    {
+        "Index": "4",
+        "Item Name": "Metro",
+        "Category": "Transport",
+        "Amount": "$ 5.00",
+        "Timestamp": "2023-02-06"
+    },
+    {
+        "Index": "5",
+        "Item Name": "pear",
+        "Category": "Food",
+        "Amount": "$ 2.00",
+        "Timestamp": "2023-01-06"
+    },
+    {
+        "Index": "6",
+        "Item Name": "tomato",
+        "Category": "Food",
+        "Amount": "$ 2.00",
+        "Timestamp": "2023-04-06"
+    },
+    {
+        "Index": "7",
+        "Item Name": "spinach",
+        "Category": "Food",
+        "Amount": "$ 2.00",
+        "Timestamp": "2023-02-06"
+    },
+    {
+        "Index": "8",
+        "Item Name": "H&M upper cloth",
+        "Category": "Cloth",
+        "Amount": "$ 25.00",
+        "Timestamp": "2023-07-06"
+    },
+    {
+        "Index": "9",
+        "Item Name": "Dior Shopping",
+        "Category": "Cloth",
+        "Amount": "$ 740.00",
+        "Timestamp": "2023-09-06"
+    },
+    {
+        "Index": "10",
+        "Item Name": "Mom Gift",
+        "Category": "Others",
+        "Amount": "$ 52.00",
+        "Timestamp": "2023-11-06"
+    },
+    {
+        "Index": "11",
+        "Item Name": "rice",
+        "Category": "Food",
+        "Amount": "$ 2.00",
+        "Timestamp": "2023-03-06"
+    },
+    {
+        "Index": "12",
+        "Item Name": "bread",
+        "Category": "Food",
+        "Amount": "$ 24.00",
+        "Timestamp": "2023-08-06"
+    }
+]
